@@ -18,7 +18,7 @@ EisenhowerMatrixApp é uma aplicação em Python com interface gráfica (GUI) cr
 1. Clone o repositório:
     ```bash
     git clone https://github.com/fernandoncidade/eisenhower_organizing
-    cd File_Manager
+    cd eisenhower_organizing
     ```
 2. Instale as dependências:
     ```bash
@@ -89,7 +89,7 @@ EisenhowerMatrixApp is a Python application with a graphical user interface (GUI
 1. Clone the repository:
     ```bash
     git clone https://github.com/fernandoncidade/eisenhower_organizing
-    cd File_Manager
+    cd eisenhower_organizing
     ```
 2. Install the dependencies:
     ```bash
